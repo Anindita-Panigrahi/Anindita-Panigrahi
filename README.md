@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/anindita-panigrahi-0200a9264" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="in/swastik-mohanty-420b41252" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/anindita-panigrahi-0200a9264" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="in/anindita-panigrahi-0200a9264" height="40" width="40" /></a>
 <a href="aninditapanigrahi04@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="aninditapanigrahi04@gmail.com" height="40" width="40" /></a>
 </p>
 <br>
